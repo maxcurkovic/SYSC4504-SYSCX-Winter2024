@@ -1,4 +1,6 @@
-# SYSC4906C-SSPD-Winter2024
-A simple Simplified Signal Processing Pipeline designed for the SYSC 4906 C Winter 2024 coding assignment. Created with Yash Kapoor. Intends to show off basic to advanced C++ concepts, including STD generic algorithms as part of the execute step implementation, concept to validate the sequence of PUs, and exception safety for all execution steps.
+# SYSC4504-SYSCX-Winter2024
+A three-part assignment, in which each iteration builds upon the other, to build a re-creation of X (Twitter)!
 
-Please note that Catch2 is required to run sspp_test.cpp.
+Assignment 1: HTML formatting, including markup, forms, and tables. Added CSS styling.
+Assignment 2: Added PHP functionality in order to read from the given SQL database, insert information from the respective forms, and display information as necessary.
+Assignment 3: Added more PHP functionality, including session variables that allow for login functionality as well as a user list for admin-marked users.
